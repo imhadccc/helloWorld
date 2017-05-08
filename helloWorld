@@ -1,0 +1,9 @@
+public class helloWorld{
+  public void helloWorld(){
+  }
+  
+  public void mian(){
+    System.out.println("Hello imhadccc, welcome to the Gibhut!");
+  }
+
+}
